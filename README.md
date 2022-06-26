@@ -12,3 +12,16 @@
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
 | DAY1 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY1P1.md) |
 |  | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY1P2.md) | 
+
+
+
+
+
+
+## 🛠 Skills
+`Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
+
+## 🎖️ Badges
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
