@@ -16,7 +16,13 @@
 |  | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY2P2.md) |
 | DAY3 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY3P1.md) |
 |  | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY3P2.md) |
-
+| DAY4 | 1882 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY4P1.md) |
+|  | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY4P2.md) |
+|  | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY4P3.md) |
+|  | 1790 | [Check if One String Swap Can Make Strings Equal](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY4P4.md) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY4P4.md) |
+| DAY5 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P1.md) |
+|  | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P2.md) |
+|  | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P3.md) |
 
 
 
