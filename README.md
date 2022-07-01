@@ -23,7 +23,9 @@
 | DAY5 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P1.md) |
 |  | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P2.md) |
 |  | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY5P3.md) |
-
+| DAY6 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P1.md) |
+|  | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P2.md) |
+|  | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P3.md) |
 
 
 ## 🛠 Skills
