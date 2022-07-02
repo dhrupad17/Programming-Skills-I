@@ -26,6 +26,8 @@
 | DAY6 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P1.md) |
 |  | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P2.md) |
 |  | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P3.md) |
+| DAY7 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY7P1.md) |
+|  | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY7P2.md) |
 
 
 ## 🛠 Skills
