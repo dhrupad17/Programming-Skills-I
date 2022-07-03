@@ -28,7 +28,9 @@
 |  | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY6P3.md) |
 | DAY7 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY7P1.md) |
 |  | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY7P2.md) |
-
+| DAY8 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P1.md) |
+|  | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P2.md) |
+|  | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P3.md) |
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
