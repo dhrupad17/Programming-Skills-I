@@ -31,6 +31,10 @@
 | DAY8 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P1.md) |
 |  | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P2.md) |
 |  | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY8P3.md) |
+| DAY9 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P1.md) |
+|  | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P2.md) |
+|  | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P3.md) |
+
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
