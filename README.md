@@ -34,7 +34,10 @@
 | DAY9 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P1.md) |
 |  | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P2.md) |
 |  | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY9P3.md) |
-
+| DAY10 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P1.md) |
+|  | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P2.md) |
+|  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P3.md) |
+|  | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P4.md) |
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
