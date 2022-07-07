@@ -38,7 +38,12 @@
 |  | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P2.md) |
 |  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P3.md) |
 |  | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY10P4.md) |
-
+| DAY11 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY11P1.md) |
+|  | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY11P2.md) |
+|  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY11P3.md) |
+|  | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY11P4.md) |
+| DAY12 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY12P1.md) |
+|  | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-I/blob/main/DAY12P2.md) |
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
 
